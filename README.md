@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Ecommerce en React
+Este proyecto consiste en una aplicación de comercio electrónico desarrollada en React, que permite a los usuarios explorar y comprar productos en diferentes categorías. A continuación, se detalla la estructura y funcionalidad principal de la aplicación:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Funcionalidades Principales
+* Navegación: La aplicación utiliza React Router para gestionar la navegación entre diferentes páginas.
+* Tienda y Categorías: Los usuarios pueden explorar productos en la página principal de la tienda o seleccionar una categoría específica, como hombres, mujeres o niños, para ver productos específicos.
+* Detalles del Producto: Los usuarios pueden ver detalles completos de un producto, incluyendo su descripción, precio y opciones de compra.
+* Carrito de Compras: Los usuarios pueden agregar productos al carrito de compras, modificar la cantidad de productos y realizar el proceso de compra.
+* Inicio de Sesión y Registro: Los usuarios pueden iniciar sesión en sus cuentas existentes o crear nuevas cuentas para gestionar sus pedidos y preferencias.
 
-## Available Scripts
-
-In the project directory, you can run:
+## Getting Started with Create React App
 
 ### `npm start`
 
